@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 E aí, eu sou o LapoLapoNaldo
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C2D72&center=true&vCenter=true&width=500&lines=Exploiting+%26+Game+Hacking;Lua+Script+Dev;Criando+libs+limpas+e+simples;0%25+Vibecode+100%25+Cafeina)
+# Fala pae
 
 </div>
 
