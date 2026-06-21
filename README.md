@@ -2,7 +2,7 @@
 
 # ⚡ Fala pae
 
-\`0% Vibecoded\` · <i>feito na mão, sem mágica (confia)</i>
+**0% Vibecoded** · <i>feito na mão, sem mágica (confia)</i>
 
 ### 📌 Repos em destaque
 
