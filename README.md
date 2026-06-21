@@ -17,16 +17,6 @@
 
 </div>
 
----
-
-### 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LapoLapoNaldo&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LapoLapoNaldo&layout=compact&theme=radical&hide_border=true" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LapoLapoNaldo&theme=radical&hide_border=true" />
-
 *0% Vibecode*
 
 </div>
