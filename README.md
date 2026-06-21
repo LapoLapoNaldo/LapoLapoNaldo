@@ -1,6 +1,8 @@
-<div align="center">
-
 # ⚡ Fala pae
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=60&section=footer" width="100%" />
+
+\`0% Vibecoded\` · <i>feito na mão, sem mágica (confia)</i>
 
 </div>
 
@@ -14,9 +16,5 @@
 <a href="https://github.com/LapoLapoNaldo/Lapo-Hub-X">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LapoLapoNaldo&repo=Lapo-Hub-X&theme=radical" />
 </a>
-
-</div>
-
-*0% Vibecode*
 
 </div>
