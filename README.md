@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fala pae
+# ⚡ Fala pae
 
 </div>
 
@@ -8,10 +8,10 @@
 
 ### 🛠️ O que eu faço
 
-- 🔓 **Exploiting** e automação em jogos
-- 🌙 **Lua** como arma principal (libs, scripts, executors)
-- 📦 Criando ferramentas mais **clean** e fáceis de usar pra galera
-- 🧪 Sempre testando coisa nova, sempre quebrando coisa velha
+- 🔓 **Xit & Automação:** Criando os melhores scripts pra quebrar o jogo.
+- 🌙 **Lua & Prompt Eng:** Dev de Lua que sabe usar a IA pra cuspir código rápido.
+- 📦 **Clean & Funcional:** Interface limpa e script que funciona direto, sem complicação.
+- 🧪 **Lapo Lapo Naldo:** Sempre testando métodos novos e otimizando os hubs.
 
 ---
 
@@ -44,8 +44,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LapoLapoNaldo&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LapoLapoNaldo&layout=compact&theme=radical&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=LapoLapoNaldo&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LapoLapoNaldo&layout=compact&theme=radical&hide_border=true" height="165" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LapoLapoNaldo&theme=radical&hide_border=true" />
 
